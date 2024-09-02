@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs
+/ConsoleA.39573452
+/x64
